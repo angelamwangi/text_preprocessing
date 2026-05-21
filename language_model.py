@@ -1,7 +1,7 @@
 #trying to build a model which knows your language
 #N-gram
 #input i am the king of----- ouptut=jungle
-#N-gram= a sequence of n words
+#N-gram= a predicts a sequence of n words using n-1 words
 #|i|am|the|king|=unigram
 #|i am|the king|=bigram
 #|i am the|=trigram
